@@ -122,6 +122,87 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &196273710
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1332623021505962948, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: health
+      value: 1000000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 15.2016
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalScale.y
+      value: -14.5425
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -10.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.62
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3133108244942909839, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7817123019110905174, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Name
+      value: Asteroid (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
 --- !u!1001 &487932339
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -173,6 +254,18 @@ PrefabInstance:
     - target: {fileID: 7817123019110905174, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
       propertyPath: m_Name
       value: Asteroid
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9015295634794086829, guid: 1d4315e03ba70d54697d92de4dd9bd29, type: 3}
+      propertyPath: m_Color.r
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -367,3 +460,4 @@ SceneRoots:
   - {fileID: 1281492208}
   - {fileID: 1899054007}
   - {fileID: 487932339}
+  - {fileID: 196273710}
